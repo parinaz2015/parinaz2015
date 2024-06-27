@@ -46,14 +46,23 @@ Here are some ideas to get you started:
 ## 💬🤝 Soft Skills
 ![Analytical Skills](https://img.shields.io/badge/Analytical_Skills-%234285F4.svg?style=for-the-badge) ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-%23FFD700.svg?style=for-the-badge) ![Organization](https://img.shields.io/badge/Organization-%236A5ACD.svg?style=for-the-badge) ![Decision Making](https://img.shields.io/badge/Decision_Making-%23800000.svg?style=for-the-badge) ![Verbal Communication](https://img.shields.io/badge/Verbal_Communication-%23FF6347.svg?style=for-the-badge) ![Written Communication](https://img.shields.io/badge/Written_Communication-%2320B2AA.svg?style=for-the-badge)
 
+<!--## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parinaz2015&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parinaz2015&layout=compact&theme=dark) 
+-->
+
+## ⚙️ GitHub Analytics
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=parinaz2015&show_icons=true&theme=dark&card_width=400&count_private=true&include_all_commits=true" alt="GitHub Stats" style="height: 200px; margin-right: 10px;"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinaz2015&layout=compact&theme=dark&card_width=400&count_private=true&langs_count=8" alt="Top Languages" style="height: 200px;"/>
+
+<!--
 ## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parinaz2015&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parinaz2015&layout=compact&theme=dark)
-
-
-
-## GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=parinaz2015&show_icons=true&theme=dark&card_width=400" alt="GitHub Stats" style="height: 200px;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinaz2015&layout=compact&theme=dark&card_width=400" alt="Top Languages" style="height: 200px;"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=parinaz2015&show_icons=true&theme=dark&card_width=400&count_private=true&include_all_commits=true" alt="GitHub Stats" style="height: 200px; margin-right: 10px;"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parinaz2015&layout=compact&theme=dark&card_width=400&count_private=true&langs_count=8" alt="Top Languages" style="height: 200px;"/>
 
 
+<a href="https://github.com/mgltorsa">
+  
+  <img height="180em" src="https://camo.githubusercontent.com/4532bcac8e0d98d85b320fe3a39486da10be6fe5a0140dbe61673e6233e5a5ac/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d6d676c746f7273612673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=mgltorsa&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"><img height="180em" src="https://camo.githubusercontent.com/a7e7a13f687ebed486f3839109b7a7fc329651124607d315a0b069e14e494716/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d676c746f727361266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mgltorsa&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">
+</a>
+-->
