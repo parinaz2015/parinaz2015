@@ -46,7 +46,14 @@ Here are some ideas to get you started:
 ## 💬🤝 Soft Skills
 ![Analytical Skills](https://img.shields.io/badge/Analytical_Skills-%234285F4.svg?style=for-the-badge) ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-%23FFD700.svg?style=for-the-badge) ![Organization](https://img.shields.io/badge/Organization-%236A5ACD.svg?style=for-the-badge) ![Decision Making](https://img.shields.io/badge/Decision_Making-%23800000.svg?style=for-the-badge) ![Verbal Communication](https://img.shields.io/badge/Verbal_Communication-%23FF6347.svg?style=for-the-badge) ![Written Communication](https://img.shields.io/badge/Written_Communication-%2320B2AA.svg?style=for-the-badge)
 
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parinaz2015&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parinaz2015&layout=compact&theme=dark)
 
 
-  
+
+## GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=parinaz2015&show_icons=true&theme=dark&card_width=400" alt="GitHub Stats" style="height: 200px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinaz2015&layout=compact&theme=dark&card_width=400" alt="Top Languages" style="height: 200px;"/>
+
 
