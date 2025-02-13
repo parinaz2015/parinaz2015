@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm Parinaz Barakhshan, a Research Assistant and PhD Candidate specializing in Code Performance Optimization on Multi-core Architectures. Here, you'll find my advanced projects, collaborative efforts, and contributions to the open-source community.
+Welcome to my GitHub profile! I'm Parinaz Barakhshan, specialized in Code Performance Optimization on Multi-core Architectures. Here, you'll find my advanced projects, collaborative efforts, and contributions to the open-source community.
 <!--
 **parinaz2015/parinaz2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
