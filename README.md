@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👨‍🎓 About Me
-- 🔭 I'm currently finalizing my PhD in Computer Engineering, set to graduate in September 2024.
+- 🔭 I earned my Ph.D. in Computer Engineering in December 2024.
 - 🖥️ I specialize in designing, developing, testing, debugging, maintaining, and optimizing software.
 - 🚀 Proficient in using High-Performance Computing (HPC) resources.
 - 🌍 With a rich background in the private sector, I have gained significant experience that has refined my technical and analytical skills.
